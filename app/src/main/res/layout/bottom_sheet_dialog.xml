@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#f0f"
+    android:orientation="vertical">
+    <TextView
+        android:text="夜风凛凛  独回望旧往事前尘,是以往的我  充满怒愤诬告与指责积压着满肚气不愤  对谣言反应甚为着紧受了教训  得了书经的指引现已看得透   "
+        android:textSize="80sp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+</android.support.v4.widget.NestedScrollView>
